@@ -1,0 +1,60 @@
+amazon 
+=====================================
+Used - switch , nonstatic method, getter-setter, IIB, araylist, linklist, static for loop, for each, Method overloading, upcasting
+======================================
+FUTURE goal
+Login - Users
+
+======================================
+electronics - phone  - brands, price, features
+	    	- camera - brands, price, features
+fashion     - shirt  - brand, price
+	    	- Pants  - brand, price
+======================================
+class - 
+		welcome, setData, payment, phones, Credential, cart, bill, amazon, a_pattern
+=======================================
+class electronics -
+(features)
+	void miFest - 
+				case1 - mi12,
+		    	case2 - mi 12 C,
+			    case3 - mi11X
+			    Default - "Product is not Available"
+	void onepluseFest - 
+				case1 - oneplus 115G
+		  	    case2 - oneplus 10R
+			    case3 - oneplus CE3
+			    Default - "Product is not Available"
+	void iPhoneFest	  - 
+				case1 - iPhone 15 Pro
+			    case2 - iPhone 15
+			    case1 - iPhone 13
+			    Default - "Product is not Available"
+	void oppoFest	  - 
+				case1 - Oppo reno 10 pro 5G	
+			    case2 - f23 5g
+			    case1 - f21s pro
+			    Default - "Product is not Available"
+======================================================================
+select topic 1 day
+2 days for hierarchy 
+1 day for logo
+2.5 days for phones
+4 days for payment 
+4 days for cart
+2 days for bill
+credential 1.5 day
+setData 1 day 
+=======================================================================
+faced problem -
+
+1. while implmenting overloading in shoe i make two methods 1 with long formal arg another with int formal args bcz of 
+   that memory gets overload and program got crashed. for solution i changed the long and , int with short and byte 
+2. while implementing cart operation getting the clear idea about how cart should work took and actual implementing the
+   cart also took time but cart is my main feature in hole project.
+3. by mistakly i make praivate variables as static bcz of that i choosing a number but program auto choosing the same 
+   number again and again 
+4. making the bill part 
+5. i used the same method to show cart and to show bill but the difference is if we print cart the total amount part 
+   will not print but if we choose bill it will show total amount part. and it suppose to happen everytime user will click on cart and bill. 
