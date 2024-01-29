@@ -8,8 +8,7 @@ class welcome extends cart {
     void welcome1() {
 
         {
-            a_pattern patten = new a_pattern();
-            patten.display();
+            welcome.patten.display();
         }
         System.out.println("\t\t\t\tWelcome to our virtual store!!!");
         System.out.println("\t\t\t\t  we have all kind for stuff! ");

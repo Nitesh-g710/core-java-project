@@ -94,6 +94,7 @@ class amazon {
     public static void main(String[] args) {
         
         welcome w = new welcome();
+        a_pattern patten = new a_pattern();
         w.welcome1();
         // int c2 =2;
         // System.out.println(c2+"2");
